@@ -12,9 +12,9 @@ We come from:
 
 Here is the list of topics that we are working on:
 
-* [Overlapping time series temporal aggregation](https://www.linkedin.com/feed/update/urn:li:activity:6993199240374050816/)
+* Overlapping time series temporal aggregation
 * Dimension reduction of time series features
-* Temporal aggraitegion with intermittent time series
+* Temporal aggregation with intermittent time series
 * Comparing different temporal aggregation algorithms
 * Probabilistic forecasting
 
